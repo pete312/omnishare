@@ -1,5 +1,5 @@
 # Omni Share
-Basic fileshare for anything I need to host on internal network.
+Basic internal fileshare in fastAPI.
 
 
 
